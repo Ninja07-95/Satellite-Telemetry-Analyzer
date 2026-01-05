@@ -94,7 +94,7 @@ total_length = 6 + (pkt_length + 1)
 # - +1 car CCSDS: length = data_octets - 1
 ```
 ## 3. Implémentation du Décodage CCSDS
-###3.1 Fonction decode_all_packets()
+### 3.1 Fonction decode_all_packets()
 ```python
 
 def decode_all_packets(data):
