@@ -1,0 +1,13 @@
+# Satellite Telemetry Analyzer
+# Requirements for the satellite hijacking challenge solution
+
+python>=3.6
+
+# Dependencies: NONE (uses only Python standard library)
+# The code uses:
+# - socket (for TCP/IP communication)
+# - struct (for binary data parsing)
+# - time (for delays)
+
+# To run:
+# python satellite_client.py
